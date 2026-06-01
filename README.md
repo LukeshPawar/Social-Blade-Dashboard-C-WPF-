@@ -2,8 +2,6 @@
 
 A **Material Design** inspired Social Blade dashboard UI built with **C# WPF** and the **Material Design in XAML Toolkit**. A clean, modern desktop application that replicates the Social Blade analytics dashboard experience.
 
-> 🎬 Built as part of a YouTube tutorial by [CCode Academy](https://www.youtube.com/c/CCodeAcademy)
-
 ---
 
 ## ✨ Features
@@ -88,16 +86,6 @@ Install via NuGet Package Manager:
 Install-Package MaterialDesignThemes
 Install-Package MaterialDesignColors
 ```
-
----
-
-## 🎬 Tutorial Reference
-
-This project was built following a YouTube tutorial:
-
-- **Video:** [Social Blade Dashboard in WPF](https://youtu.be/qSP8v8Gi3XU)
-- **Channel:** [CCode Academy](https://www.youtube.com/c/CCodeAcademy)
-- **Toolkit Docs:** [materialdesigninxaml.net](http://materialdesigninxaml.net/)
 
 ---
 
